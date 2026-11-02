@@ -1,0 +1,6 @@
+From: pm@company.com
+Subject: Two Backend Tasks
+
+Two tasks:
+1. Write integration tests for the new payment API (Python, testing framework). Due Friday 7 Nov.
+2. Review and update the SQL schema for the customer table. No deadline.

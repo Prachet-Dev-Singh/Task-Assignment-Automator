@@ -1,0 +1,6 @@
+From: hr@company.com
+Subject: Onboarding Documentation Update
+
+Please update the employee onboarding documentation for the new remote 
+work policy. No specific technical skills needed.
+Target: completed by end of November.

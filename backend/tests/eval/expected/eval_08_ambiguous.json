@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "task_title": "Unspecified Task",
+      "priority": "medium",
+      "required_skills": [],
+      "min_seniority": "mid",
+      "category": "general",
+      "deadline_not_null": false,
+      "expect_low_confidence": true
+    }
+  ]
+}

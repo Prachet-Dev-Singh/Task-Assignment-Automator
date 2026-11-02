@@ -1,0 +1,13 @@
+From: team.lead@company.com
+Subject: Write Unit Tests for Auth Module
+
+Hi,
+
+We need someone to write unit tests for the authentication module deployed 
+last week. Cover the basic login, logout, and token refresh flows using 
+our existing Python test framework.
+
+Good starter task — no senior experience needed.
+No strict deadline, aim for end of next week.
+
+Thanks

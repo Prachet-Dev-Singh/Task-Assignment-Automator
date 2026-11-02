@@ -1,0 +1,14 @@
+From: rajesh.sharma@company.com
+Subject: Q3 Analytics Dashboard
+
+Hi team,
+
+Please prepare the Q3 analytics dashboard in PowerBI. It should include a 
+regional breakdown by sales and revenue for all Indian zones.
+
+Deadline is Friday, 7 November 2026 at 5 PM.
+
+This is a high-priority deliverable for the leadership review meeting.
+
+Thanks,
+Rajesh

@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_title": "Integrate HR System with Salesforce CRM",
+      "priority": "medium",
+      "required_skills": [],
+      "unmapped_skills_contains": [
+        "salesforce"
+      ],
+      "min_seniority": "lead",
+      "category": "software-development",
+      "deadline_not_null": true
+    }
+  ]
+}

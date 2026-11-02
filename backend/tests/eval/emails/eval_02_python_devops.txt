@@ -1,0 +1,8 @@
+From: infra.lead@company.com
+Subject: Automate Deployment Pipeline
+
+We need to automate our deployment pipeline using Python scripts and 
+Docker. Set up CI/CD with proper rollback support.
+
+Target completion: end of this month.
+Mid-level DevOps engineer would be ideal.

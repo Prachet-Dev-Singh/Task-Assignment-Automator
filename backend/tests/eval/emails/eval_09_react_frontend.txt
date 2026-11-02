@@ -1,0 +1,7 @@
+From: product@company.com
+Subject: Build User Dashboard
+
+Please build the new user activity dashboard in React. It should show 
+login history, recent actions, and account settings. 
+
+Mid-level frontend developer. Deadline: 14 November 2026.

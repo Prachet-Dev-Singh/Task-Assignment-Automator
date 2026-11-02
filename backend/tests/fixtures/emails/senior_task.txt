@@ -1,0 +1,14 @@
+From: cto@company.com
+Subject: Design ML Model Serving Infrastructure
+
+We need to design the production infrastructure for serving our machine 
+learning models at scale.
+
+This includes:
+- Model serving layer architecture (Python-based)
+- Monitoring and alerting setup
+- Auto-scaling configuration
+- Rollback and canary deployment procedures
+
+Significant DevOps and machine-learning experience is required.
+Please deliver the architecture design document by 15 November 2026.

@@ -1,0 +1,5 @@
+From: senior.dev@company.com
+Subject: Add Tests for Login Flow
+
+We need unit tests written for the login and logout flow in our Python backend.
+This is a well-scoped junior task. No deadline — whenever you can get to it.

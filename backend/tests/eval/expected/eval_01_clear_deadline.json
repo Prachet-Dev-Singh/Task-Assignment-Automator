@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "task_title": "Prepare Monthly Revenue Report",
+      "priority": "high",
+      "required_skills": [
+        "powerbi",
+        "sql",
+        "data-analysis",
+        "reporting"
+      ],
+      "min_seniority": "mid",
+      "category": "reporting",
+      "deadline_not_null": true
+    }
+  ]
+}

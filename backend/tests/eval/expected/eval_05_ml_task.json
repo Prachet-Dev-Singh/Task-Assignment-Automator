@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_title": "Train Customer Churn Prediction Model",
+      "priority": "medium",
+      "required_skills": [
+        "python",
+        "machine-learning"
+      ],
+      "min_seniority": "mid",
+      "category": "machine-learning",
+      "deadline_not_null": true
+    }
+  ]
+}

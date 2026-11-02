@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "task_title": "Update Employee Onboarding Documentation",
+      "priority": "low",
+      "required_skills": [],
+      "min_seniority": "junior",
+      "category": "general",
+      "deadline_not_null": false
+    }
+  ]
+}

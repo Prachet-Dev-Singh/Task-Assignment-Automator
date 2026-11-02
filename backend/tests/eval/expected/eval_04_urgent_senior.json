@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_title": "Conduct Urgent Security Audit",
+      "priority": "urgent",
+      "required_skills": [
+        "security",
+        "infrastructure"
+      ],
+      "min_seniority": "senior",
+      "category": "security",
+      "deadline_not_null": true
+    }
+  ]
+}

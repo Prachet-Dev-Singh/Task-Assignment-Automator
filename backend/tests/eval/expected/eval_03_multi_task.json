@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "task_title": "Write Integration Tests for Payment API",
+      "priority": "medium",
+      "required_skills": [
+        "python",
+        "testing"
+      ],
+      "min_seniority": "junior",
+      "category": "testing",
+      "deadline_not_null": true
+    },
+    {
+      "task_title": "Review and Update Customer SQL Schema",
+      "priority": "medium",
+      "required_skills": [
+        "sql"
+      ],
+      "min_seniority": "junior",
+      "category": "data-analysis",
+      "deadline_not_null": false
+    }
+  ]
+}

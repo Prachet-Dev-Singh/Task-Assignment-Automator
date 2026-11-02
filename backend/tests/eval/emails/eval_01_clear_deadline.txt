@@ -1,0 +1,9 @@
+From: manager@company.com
+Subject: Monthly Revenue Report
+
+Please prepare the monthly revenue report in PowerBI with SQL data pulls 
+for October 2026. Include YoY comparison and regional breakdown.
+
+Deadline: 10 November 2026 at 5 PM.
+
+High priority — needed for the board meeting.

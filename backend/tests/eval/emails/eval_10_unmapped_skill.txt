@@ -1,0 +1,6 @@
+From: sales@company.com
+Subject: Salesforce CRM Integration
+
+We need someone to integrate our internal HR system with Salesforce CRM.
+This requires Salesforce API knowledge (not a common skill in our team).
+Lead-level engineering needed. Deadline: 30 November 2026.

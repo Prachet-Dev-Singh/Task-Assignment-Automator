@@ -1,0 +1,11 @@
+From: hr@company.com
+Subject: Monthly Team Status Report
+
+Please prepare the monthly team status report for November 2026.
+
+Include:
+- Current headcount by department
+- List of active projects and their status
+- Team satisfaction survey summary
+
+Due by 30 November 2026 end of business day.

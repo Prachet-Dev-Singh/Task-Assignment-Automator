@@ -1,0 +1,6 @@
+From: cto@company.com
+Subject: URGENT Security Audit
+
+We need an immediate security audit of our infrastructure and API endpoints.
+This is urgent — complete within 24 hours. 
+Requires senior-level security and infrastructure expertise.

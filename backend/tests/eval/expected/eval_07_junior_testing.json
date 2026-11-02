@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_title": "Write Unit Tests for Login Flow",
+      "priority": "low",
+      "required_skills": [
+        "python",
+        "testing"
+      ],
+      "min_seniority": "junior",
+      "category": "testing",
+      "deadline_not_null": false
+    }
+  ]
+}

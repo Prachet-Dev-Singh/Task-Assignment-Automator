@@ -1,0 +1,11 @@
+From: ceo@company.com
+Subject: URGENT - Critical Production Bug
+
+Team,
+
+There is a critical production bug affecting our payment processing Python 
+backend service. It is throwing 500 errors for all checkout requests.
+
+This MUST be fixed within the next 4 hours. All hands on deck.
+
+This requires senior Python developer skills. Escalate immediately.

@@ -1,0 +1,17 @@
+From: director@company.com
+Subject: Two Tasks This Week
+
+Team,
+
+Two things need to be done this week:
+
+1. Update the SQL data pipeline to include data from the new Southeast Asia 
+   region. This needs to be done by Wednesday 4 November 2026.
+
+2. Fix the bug in the React frontend where the date filter does not work 
+   correctly on the reporting dashboard. This can be done by end of week 
+   (Friday 7 November 2026).
+
+Please assign accordingly.
+
+Thanks

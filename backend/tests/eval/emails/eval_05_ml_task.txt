@@ -1,0 +1,8 @@
+From: ds.lead@company.com
+Subject: Train Customer Churn Model
+
+Please train and evaluate a customer churn prediction model using our 
+historical transaction data. Use Python and standard ML libraries.
+
+Seniority required: at least mid-level data scientist.
+Deadline: 20 November 2026.

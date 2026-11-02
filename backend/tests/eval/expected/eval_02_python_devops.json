@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_title": "Automate Deployment Pipeline",
+      "priority": "medium",
+      "required_skills": [
+        "python",
+        "devops"
+      ],
+      "min_seniority": "mid",
+      "category": "devops",
+      "deadline_not_null": false
+    }
+  ]
+}

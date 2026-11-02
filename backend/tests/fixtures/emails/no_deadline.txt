@@ -1,0 +1,12 @@
+From: priya.mehta@company.com
+Subject: Database Query Optimization
+
+Hi,
+
+Could someone look into optimizing the main customer SQL queries? 
+They have been running slow lately and are affecting our reporting pipeline.
+
+No strict deadline, but sooner is better.
+
+Thanks,
+Priya
